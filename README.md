@@ -1,12 +1,16 @@
 
-<div align="center">
-  <b>Jo-Hyeon</b>
+
+![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=welcome&desc=Hyeon's%20github%20profile&descAlign=70&descAlignY=65&fontSize=90)
 <br>
 <br>
 
 
- 
+ <div align="center">
 
+🛠 Tech Stack 🛠
+  
+<br>
+  
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
